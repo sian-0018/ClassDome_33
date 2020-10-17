@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ClassDome_33/static/css/main.ba680a24.chunk.css",
+    "main.js": "/ClassDome_33/static/js/main.3b0cc612.chunk.js",
+    "main.js.map": "/ClassDome_33/static/js/main.3b0cc612.chunk.js.map",
+    "runtime-main.js": "/ClassDome_33/static/js/runtime-main.d6f27e64.js",
+    "runtime-main.js.map": "/ClassDome_33/static/js/runtime-main.d6f27e64.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ClassDome_33/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.329d268f.chunk.js": "/ClassDome_33/static/js/2.329d268f.chunk.js",
+    "static/js/2.329d268f.chunk.js.map": "/ClassDome_33/static/js/2.329d268f.chunk.js.map",
+    "index.html": "/ClassDome_33/index.html",
+    "precache-manifest.3992bbce0522a022dc7f816dc8d8d182.js": "/ClassDome_33/precache-manifest.3992bbce0522a022dc7f816dc8d8d182.js",
+    "service-worker.js": "/ClassDome_33/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ClassDome_33/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.ba680a24.chunk.css.map": "/ClassDome_33/static/css/main.ba680a24.chunk.css.map",
+    "static/js/2.329d268f.chunk.js.LICENSE.txt": "/ClassDome_33/static/js/2.329d268f.chunk.js.LICENSE.txt",
+    "static/media/App_33.css": "/ClassDome_33/static/media/origami_making.e56930b3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6f27e64.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.329d268f.chunk.js",
+    "static/css/main.ba680a24.chunk.css",
+    "static/js/main.3b0cc612.chunk.js"
+  ]
+}
