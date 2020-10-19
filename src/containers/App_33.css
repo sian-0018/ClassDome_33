@@ -1,0 +1,11 @@
+@font-face {  font-family: 'origami making';
+    font-style: normal;  
+    font-weight: normal;  
+    src: local('origami making') 
+    url('origami_making.ttf'), 
+    format('truetype');}
+h1 {  
+    font-family: 'origami making';  
+    font-weight: 200;  
+    color: #fff3d6;
+}
